@@ -10,7 +10,8 @@ The objective of this practical was to configure Virtual Local Area Networks (VL
 - Cisco Router and Switch
 - PCs
 - Cisco IOS CLI
-
+  
+![VLAN Network Topology](vlan-topology.png.png)
 ## 3. VLAN Configuration
 
 Two VLANs were created on Switch5:
