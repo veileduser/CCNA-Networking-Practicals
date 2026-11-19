@@ -97,3 +97,17 @@ This practical provided hands-on experience with:
 ## 10. Project Files
 
 The Cisco Packet Tracer simulation file and supporting screenshots will be included in this folder.
+## Verification Evidence
+### 1. VLAN Configuration
+
+![VLAN configuration](vlan-configuration.png.png)
+### 2. Trunk Configuration
+
+![Trunk configuration](trunk-configuration.png.png)
+### 3. Router Subinterfaces
+
+![Router subinterfaces](router-subinterfaces.png.png)
+
+### 4. Inter-VLAN Connectivity
+
+![Inter-VLAN connectivity](inter-vlan-connectivity.png.png)
