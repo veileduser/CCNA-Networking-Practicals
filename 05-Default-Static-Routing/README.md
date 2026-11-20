@@ -99,7 +99,14 @@ In this practical:
 Both routers require default routes to allow communication in both directions.
 
 ## 7. Verification
+### Router0 Routing Table
+![Router0 Routing Table](router0-routing-table.png)
 
+### Router1 Routing Table
+![Router1 Routing Table](router1-routing-table.png)
+
+### End-to-End Connectivity Test
+![End-to-End Connectivity](end-to-end-connectivity.png)
 The following commands were used to verify the configuration:
 
 **Check interface status**
