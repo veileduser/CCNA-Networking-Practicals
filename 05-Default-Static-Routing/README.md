@@ -14,7 +14,7 @@ The objective of this practical was to understand and configure default static r
 ## 3. Network Topology
 
 The topology consists of two LANs connected through two routers.
-
+![Default Routing topology](default-routing-topology.png)
 - PC0 connects to Switch0, which connects to Router0.
 - PC1 connects to Switch1, which connects to Router1.
 - Router0 and Router1 are connected through their GigabitEthernet interfaces.
